@@ -4,3 +4,4 @@ circuitry responsible for implementing serial communication,UART is Full Duplex 
 CPU) into serial form and transmit in serial to receiving UART ,Receiving UART will then convert the serial data back into parallel data 
 for the receiving device
 
+![UART_Block_Diagram_Proposed](https://user-images.githubusercontent.com/56665316/174566083-145f9e87-7f14-4d5a-bd29-8d0a46dd46bf.PNG)
